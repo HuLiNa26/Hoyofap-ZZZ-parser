@@ -11,9 +11,10 @@ Run parser and it will generate gameplay_settings.zon
 
 <img src="tutorial/1.png" width="300"/>
 
-<img src="tutorial/2.png" width="900"/>
+<img src="tutorial/2.png" width="1200"/>
 
 <img src="tutorial/3.png" width="500"/>
 
 <img src="tutorial/4.png" width="500"/>
+
 
