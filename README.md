@@ -9,10 +9,10 @@ Run parser and it will generate gameplay_settings.zon
 
 ## How to get Hoyofap json
 
-<img src="tutorial/1.png" width="150"/>
+<img src="tutorial/1.png" width="300"/>
 
-<img src="tutorial/2.png" width="150"/>
+<img src="tutorial/2.png" width="300"/>
 
-<img src="tutorial/3.png" width="150"/>
+<img src="tutorial/3.png" width="300"/>
 
-<img src="tutorial/4.png" width="150"/>
+<img src="tutorial/4.png" width="300"/>
